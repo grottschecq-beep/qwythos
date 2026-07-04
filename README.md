@@ -71,8 +71,8 @@ Qwythos natively speaks XML function calling (`<tool_call>`). Give the desktop c
 
 Forget Python environments, Hugging Face tokens, and compiling custom CUDA kernels. Qwythos Desktop is packaged as a standalone application with the inference engine bundled inside.
 
-*   **Windows:** Download `Qwythos-x64.7z` from the latest release. Run the installer. 
-*   **macOS:** Download `Qwythos.dmg` from the latest release. Drag to Applications. (Universal Binary for Apple Silicon and Intel).
+*   **Windows:** Download `Qwythos-x64.7z` from the latest [release](../../releases). Run the installer. 
+*   **macOS:** Download `Qwythos.dmg` from the latest [release](../../releases). Drag to Applications. (Universal Binary for Apple Silicon and Intel).
 
 Double-click to launch. The app automatically detects your hardware, selects the optimal quantization profile, and starts the local engine.
 
