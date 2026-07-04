@@ -1,0 +1,3 @@
+customtkinter==5.2.2
+llama-cpp-python==0.2.56
+requests==2.31.0
