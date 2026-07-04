@@ -1,14 +1,20 @@
 # Qwythos — The Uncensored Mythos-Class Desktop Studio
 
+Anthropic locked the Claude Mythos intelligence behind government contracts and crippled Fable 5 with extreme censorship. **Qwythos Desktop** brings that frontier-level reasoning to your local machine. This is an entirely uncensored, 1-million-token context, 9B-parameter AI engine packaged as a native desktop client for Windows and Mac. Drop in zero-day exploits, analyze EDR bypasses, and reverse-engineer malware locally—without API restrictions, content filters, or vendor surveillance.
+
+Distilled from over 500 million tokens of high-quality Claude Mythos and Fable traces using an assistant-only loss function, the underlying **Qwythos-9B** architecture achieves a massive **+34.3 MMLU uplift** over its base. Processed through the Heretic abliteration pipeline (achieving a microscopic KL divergence of 0.0066), the model is permanently stripped of corporate safety classifiers. You get the elite analytical power of Anthropic's top tier, executing locally on your own hardware.
+
 [![Latest Release](https://img.shields.io/github/v/release/qwythos-mythos/qwythos?style=flat-square&label=Download)](https://github.com/qwythos-mythos/qwythos/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-blue?style=flat-square)](https://github.com/qwythos-mythos/qwythos/releases/latest)
 [![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon%20%7C%20Intel-black?style=flat-square)](https://github.com/qwythos-mythos/qwythos/releases/latest)
 [![Model](https://img.shields.io/badge/Engine-Qwythos--9B-D97757?style=flat-square)](https://huggingface.co/empero-ai)
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 
-Anthropic locked the Claude Mythos intelligence behind government contracts and crippled Fable 5 with extreme censorship. **Qwythos Desktop** brings that frontier-level reasoning to your local machine. This is an entirely uncensored, 1-million-token context, 9B-parameter AI engine packaged as a native desktop client for Windows and Mac. Drop in zero-day exploits, analyze EDR bypasses, and reverse-engineer malware locally—without API restrictions, content filters, or vendor surveillance.
-
-Distilled from over 500 million tokens of high-quality Claude Mythos and Fable traces using an assistant-only loss function, the underlying **Qwythos-9B** architecture achieves a massive **+34.3 MMLU uplift** over its base. Processed through the Heretic abliteration pipeline (achieving a microscopic KL divergence of 0.0066), the model is permanently stripped of corporate safety classifiers. You get the elite analytical power of Anthropic's top tier, executing locally on your own hardware.
+<div align="center">
+  <a href="../../releases/latest">
+    <img width="15%" alt="Qwythos — The Uncensored Mythos-Class Desktop Studio." src="assets/qwythos.png" />
+  </a>
+</div>
 
 ---
 
