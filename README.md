@@ -12,7 +12,7 @@ Distilled from over 500 million tokens of high-quality Claude Mythos and Fable t
 
 <div align="center">
   <a href="../../releases/latest">
-    <img width="15%" alt="Qwythos — The Uncensored Mythos-Class Desktop Studio." src="assets/qwythos.png" />
+    <img width="100%" alt="Qwythos — The Uncensored Mythos-Class Desktop Studio." src="assets/qwythos.png" />
   </a>
 </div>
 
